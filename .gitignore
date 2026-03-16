@@ -10,6 +10,9 @@ build/
 .env
 .env.local
 .env.*.local
+*.git
+.gitignore
+*git/
 
 # IDE
 .vscode/
